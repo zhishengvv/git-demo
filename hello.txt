@@ -1,0 +1,18 @@
+git-demo
+hellow git
+vim -demo
+esc --https://www.runoob.com/linux/linux-vim.html
+i
+esc
+:w
+:wq
+:q
+yy  -复制光标所在行
+p   -粘贴
+dd  -删除
+
+esc --https://www.runoob.com/linux/linux-vim.html
+esc --https://www.runoob.com/linux/linux-vim.html
+esc --https://www.runoob.com/linux/linux-vim.html
+esc --https://www.runoob.com/linux/linux-vim.html
+esc --https://www.runoob.com/linux/linux-vim.html
