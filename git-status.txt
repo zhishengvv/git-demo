@@ -42,6 +42,11 @@ git merge 分支名            #把指定的分支合并到当前分支
 <<<制造冲突>>>=======使hot-fix与master不一致
 CONFLICT (content)  ===自动合并失败，有冲突【手动合并，选择需要的内容保留。删除特殊符号】
 
+git remote -v   =====查看拥有的别名
+git remote add git-demo https://github.com/zhishengvv/git-demo.git
+如上，给github仓库链接【https://github.com/zhishengvv/git-demo.git】起了个别名【git-demo】
+这个别名既可以拉取fetch，也可以推送push(不起别名也行，默认是origin？）
+
 
 
 
