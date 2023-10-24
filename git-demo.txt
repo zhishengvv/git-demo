@@ -1,7 +1,11 @@
 =============git-demo==================
 git测试2
 
-git clone
+git clone HTTPS不行就用SSH
+克隆包含三步骤【1.拉取代码】【2.初始化本地仓库】【3.创建别名】
+创建的别名默认为：origin
+
+
 
 git pull HTTPS或SSH 分支
 git push HTTPS或SHH 分支
