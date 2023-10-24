@@ -1,0 +1,14 @@
+=============git-demo==================
+git测试2
+
+git clone
+
+git pull HTTPS或SSH 分支
+git push HTTPS或SHH 分支
+
+=======【【【【【【【【【【注意冲突的合并】】】】】】】】】=========
+
+
+
+
+

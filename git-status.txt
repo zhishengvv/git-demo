@@ -48,6 +48,6 @@ git remote add git-demo https://github.com/zhishengvv/git-demo.git
 git push  【HTTPS路径不行可以试试SSH】 分支名
 
 ======测试pull======
-
+【【【【【注意：如果推送或拉取不了，可能有冲突需要手动合并】】】】】
 
 最后行
