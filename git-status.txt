@@ -50,4 +50,19 @@ git push  【HTTPS路径不行可以试试SSH】 分支名
 ======测试pull======
 【【【【【注意：如果推送或拉取不了，可能有冲突需要手动合并】】】】】
 
+
+git init
+git remote add origin HTTPS【SSH】
+git checkout -b develop 
+git pull origin develop
+git push origin develop
+
+git clone -b 分支名 仓库地址
+
+有时拉取不了【failed to push some refs to ‘https://gitee.com/】
+：git pull --rebase origin master
+
+
+
+
 最后行
